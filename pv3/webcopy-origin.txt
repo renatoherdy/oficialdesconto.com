@@ -1,0 +1,140 @@
+Uri: https://curcumygotinhas.fun/comments/feed/
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://curcumygotinhas.fun/curcumy/
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\curcumy\index.htm
+Content Type: text/html
+
+Uri: https://curcumygotinhas.fun/feed/
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://curcumygotinhas.fun/wp-content/litespeed/css/bb0f91cfbc812c0cd570059df9cb367c.css?ver=0062e
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\litespeed\css\bb0f91cfbc812c0cd570059df9cb367c.css
+Content Type: text/css
+
+Uri: https://curcumygotinhas.fun/wp-content/uploads/2022/09/cropped-294031451_100901452707612_2764516943984077330_n-180x180.jpg
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\uploads\2022\09\cropped-294031451_100901452707612_2764516943984077330_n-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://curcumygotinhas.fun/wp-content/uploads/2022/09/cropped-294031451_100901452707612_2764516943984077330_n-192x192.jpg
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\uploads\2022\09\cropped-294031451_100901452707612_2764516943984077330_n-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://curcumygotinhas.fun/wp-content/uploads/2022/09/cropped-294031451_100901452707612_2764516943984077330_n-32x32.jpg
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\uploads\2022\09\cropped-294031451_100901452707612_2764516943984077330_n-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/1-min-1-117x300.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\1-min-1-117x300.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/1-min-1.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\1-min-1.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/21-min-150x150.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\21-min-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/21-min-300x300.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\21-min-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/21-min-768x768.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\21-min-768x768.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/21-min.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\21-min.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/5-min-150x150.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\5-min-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/5-min-300x300.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\5-min-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/5-min.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\5-min.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Compra-Segura-300x55.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Compra-Segura-300x55.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Compra-Segura.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Compra-Segura.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-32-150x150.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-32-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-32-300x300.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-32-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-32.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-32.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-35-150x150.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-35-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-35-300x300.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-35-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-35.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-35.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-36-150x150.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-36-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-36-300x300.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-36-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/Inserir-um-titulo-36.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\Inserir-um-titulo-36.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/pagamento-new-2-2.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\pagamento-new-2-2.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-content/webp-express/webp-images/uploads/2022/09/seguro.png.webp
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-content\webp-express\webp-images\uploads\2022\09\seguro.png.webp
+Content Type: image/webp
+
+Uri: https://curcumygotinhas.fun/wp-json/
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://curcumygotinhas.fun/wp-json/oembed/1.0/embed?url=https:%2F%2Fcurcumygotinhas.fun%2Fprincipals%2F
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://curcumygotinhas.fun/wp-json/oembed/1.0/embed?url=https:%2F%2Fcurcumygotinhas.fun%2Fprincipals%2F&format=xml
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://curcumygotinhas.fun/wp-json/wp/v2/pages/477
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\wp-json\wp\v2\pages\477
+Content Type: application/json
+
+Uri: https://www.facebook.com/tr?id=1140069443578571&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=757737468638343&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\curcumygotinhas.fun\tr
+Content Type: text/plain
+
